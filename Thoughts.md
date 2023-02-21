@@ -1,0 +1,3 @@
+Components that need to know about state...
+
+I believe filter should know about items filtered state.
